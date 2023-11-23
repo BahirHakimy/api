@@ -12,7 +12,7 @@ ACCESS_TOKEN = config("GITHUB_ACCESS_TOKEN")
 GITHUB_REPO_NAME = config("GITHUB_REPO_NAME")
 MEDIA_BUCKET_NAME = "media"
 
-DEBUG = False
+DEBUG = True
 
 # Database
 DATABASES = {
